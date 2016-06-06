@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# Now I will modify the slackbuild to build stable version
+
 set -e 
 
 VERSION=$(head -1 ChangeLog.txt|awk '{print $2}')
