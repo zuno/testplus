@@ -1,3 +1,6 @@
+Version 1.7.0dev1 - 06/Jun/2016
+  This is just for test new branch
+
 Version 1.7.0rc3 - 03/Jun/2016
   This could be the last batch of updates before 1.7.0 stable, so please test!
   - dialog did no more trap develop errors (but if occurs please report it)
